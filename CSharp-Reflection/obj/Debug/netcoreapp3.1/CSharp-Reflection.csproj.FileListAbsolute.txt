@@ -1,0 +1,17 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\bin\Debug\netcoreapp3.1\CSharp-Reflection.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\bin\Debug\netcoreapp3.1\CSharp-Reflection.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\bin\Debug\netcoreapp3.1\CSharp-Reflection.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\bin\Debug\netcoreapp3.1\CSharp-Reflection.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\bin\Debug\netcoreapp3.1\CSharp-Reflection.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\bin\Debug\netcoreapp3.1\CSharp-Reflection.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\obj\Debug\netcoreapp3.1\CSharp-Reflection.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\obj\Debug\netcoreapp3.1\CSharp-Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\obj\Debug\netcoreapp3.1\CSharp-Reflection.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\obj\Debug\netcoreapp3.1\CSharp-Reflection.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\obj\Debug\netcoreapp3.1\CSharp-Reflection.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\obj\Debug\netcoreapp3.1\CSharp-Reflection.csproj.CopyComplete
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\obj\Debug\netcoreapp3.1\CSharp-Reflection.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\obj\Debug\netcoreapp3.1\CSharp-Reflection.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Reflection\CSharp-Reflection\obj\Debug\netcoreapp3.1\CSharp-Reflection.genruntimeconfig.cache
